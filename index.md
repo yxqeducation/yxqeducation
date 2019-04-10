@@ -13,7 +13,7 @@
 
 
 ![](figs/education.jpg)
-<img src="figs/education.jpg" width="300">  <img src="figs/education.jpg" width="300">
+<img src="figs/education.jpg" width="330">     <img src="figs/education.jpg" width="330">
 
 
 You can use the [editor on GitHub](https://github.com/yxqeducation/yxqeducation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
