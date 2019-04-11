@@ -90,5 +90,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![![](figs/edu1.jpg)](https://youtu.be/CAExWKYx_bg)
+[![](figs/edu1.jpg)](https://youtu.be/CAExWKYx_bg)
 
