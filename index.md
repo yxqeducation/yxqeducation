@@ -11,6 +11,10 @@ for more information, please click [here](http://www.baidu.com)
 
 <span style="color:grey">  这里是字体颜色测试  </span>
 
+<span style="color:rgb(255,0,0)">  这里是字体颜色测试  </span>
+
+
+
 - this
 - is 
 - a 
