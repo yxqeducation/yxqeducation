@@ -38,6 +38,8 @@ using namespace std
 ```
 
 
+![](figs/kiss.gif)
+
 <span style="color:red"> this is a test </span>
 
 * this
