@@ -9,7 +9,7 @@ welcome
 
 for more information, please click [here](http://www.baidu.com)
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+<span style="color:grey">  这里是字体颜色测试  </span>
 
 - this
 - is 
