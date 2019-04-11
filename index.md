@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ![edu1](figs/edu1.jpg)
-
+welcome 
 
 
 
