@@ -5,6 +5,7 @@ welcome
 
 [fei wang](feiwang.github.io)
 
+&#x1F34E;
 
 for more information, please click [here](http://www.baidu.com)
 
@@ -25,8 +26,9 @@ for more information, please click [here](http://www.baidu.com)
 
 > this is a quotation
 
-```
-this is a quotation
+```c++
+# include "stdio.h"
+using namespace std 
 ```
 
 * this
