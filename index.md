@@ -9,6 +9,8 @@ welcome
 
 for more information, please click [here](http://www.baidu.com)
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 - this
 - is 
 - a 
