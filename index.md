@@ -62,7 +62,7 @@ using namespace std
 *welcome*  **welcome**
 
 
-# Hoshang is a bitch 
+# Education is important  
 
 ![](figs/education.jpg)
 <img src="figs/education.jpg" width="330">     <img src="figs/education.jpg" width="330">
