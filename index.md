@@ -6,7 +6,7 @@ welcome
 [fei wang](feiwang.github.io)
 
 
-for more information, please click [here](www.baidu.com)
+for more information, please click [here](http://www.baidu.com)
 
 
 1. welcome
