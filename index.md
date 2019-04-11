@@ -13,11 +13,9 @@ for more information, please click [here](http://www.baidu.com)
 
 <span style="color:rgb(255,0,0)">  这里是字体颜色测试  </span>
 
-[  ![](http://i.imgur.com/Ot5DWAW.png)  ]  (https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 
 
-![  ![](figs/edu1.jpg)  ](https://youtu.be/CAExWKYx_bg)
 
 [![Youtube](https://youtu.be/OqSmb3n0j8o)]
 
@@ -57,6 +55,9 @@ using namespace std
 
 *welcome*  **welcome**
 
+
+
+
 ![](figs/education.jpg)
 <img src="figs/education.jpg" width="330">     <img src="figs/education.jpg" width="330">
 
@@ -89,5 +90,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-
+![  ![](figs/edu1.jpg)  ](https://youtu.be/CAExWKYx_bg)
 
